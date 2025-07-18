@@ -66,6 +66,7 @@ Le **Routeur 1** est utilisé pour diriger les actions vers les bons contrôleur
 
 - **Hong Phuoc DINH**
 - **Hippolyte GINESTE**
+- lien (n'est plus valide à ce jour) :
 http://dev-isi.utt.fr/~ginesteh/lo07_tp/projet
 
 > Projet réalisé dans le cadre du module LO07 _ UTT Troyes
